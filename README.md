@@ -12,7 +12,7 @@
 | 201-323 | https://github.com/ProstDasha | Параваева Д.О.|
 | 201-324 | https://github.com/Mal0spal | Бражников И.Е. |
 | 201-324 | https://github.com/KseniaKons | Константинова К.А.|
-| 201-323 |  | Короткова А.К. |
+| 201-323 | https://github.com/ArinaKorotkova | Короткова А.К. |
 | 201-323 | https://github.com/Popova-Ekaterina | Попова Е.С.|
 | 201-323 | https://github.com/masha-sevod | Севоднясева М.Д.|
 | 201-324 | https://github.com/viacheslavka0 | Синяков В.А. |
